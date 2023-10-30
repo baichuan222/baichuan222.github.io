@@ -1,0 +1,9 @@
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/* 鼠标样式 */
+body {
+    cursor: url("https://cdn.jsdelivr.net/gh/xlenco/JS-X@main/mouse/normal.cur"), default;
+  }
+  a,
+  img,
+  button {
+    cursor: url("https://cdn.jsdelivr.net/gh/xlenco/JS-X@main/mouse/link.cur"), default !important;
+  }
